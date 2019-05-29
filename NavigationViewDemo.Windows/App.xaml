@@ -1,0 +1,15 @@
+﻿<Application
+    x:Class="NavigationViewDemo.Windows.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:NavigationViewDemo.Windows"
+    xmlns:views="using:NavigationViewDemo.Windows.Views">
+
+    <!--<Application.Resources>
+        <ResourceDictionary>
+            <views:MainView x:Key="MainView" />
+        </ResourceDictionary>
+    </Application.Resources>-->
+
+
+</Application>
